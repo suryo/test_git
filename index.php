@@ -5,4 +5,4 @@ echo "Randy";
 "echo test ajah";
 echo "ayam goreng";
 "halo ";
-?>
+ahan
