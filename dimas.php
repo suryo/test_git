@@ -1,3 +1,3 @@
 <?php
-echo "ayam";
+echo "ayam lele";
 ?>
