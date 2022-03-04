@@ -2,7 +2,6 @@
 
 echo "asik";
 echo "Randy";
-"echo test ajah";
+echo "test ajah";
 echo "ayam goreng";
-"halo ";
-ahan time_sleep_until
+?>
